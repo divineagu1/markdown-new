@@ -9,7 +9,8 @@
 
  ## Relative Links to Directories and image Files
 
- here is an image [images](/images/istockphoto-1389134802-1024x1024.jpg)
+ here is an image from [images](/images/):
+ ![samaria George](./images/istockphoto-1389134802-1024x1024.jpg)
 
 
  ## GitHub Markdown
